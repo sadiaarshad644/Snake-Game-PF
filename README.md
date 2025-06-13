@@ -1,4 +1,5 @@
 🐍 Snake Game (Console Version)
+
 A classic console-based Snake Game written in C, where the snake grows by eating dots!
 
 Built as a simple fun project to practice basic game logic, console graphics, and keyboard input handling in C.
